@@ -1,5 +1,5 @@
 # Vonage Video Linux Screen Share Sample
-A sample where the Linux Desktop (X11) is catured and streamed.
+A sample where the Linux Desktop (X11) is captured and streamed.
 
 This sample Uses X11 Library to capture the Linux Desktop.
 This sample also shows using OpenCV to capture Video from the Camera
